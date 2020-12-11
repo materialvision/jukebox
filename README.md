@@ -1,3 +1,5 @@
+Adding som minor tweeks for training
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # Jukebox
